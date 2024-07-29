@@ -1,1 +1,2 @@
-# Web-restaurant
+npm inistall
+npx json-server db.json
